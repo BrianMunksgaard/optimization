@@ -7,6 +7,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>optimization-simulated-annealing</module>
+		<module>optimization-evolutionary</module>
 	</modules>
 
 
